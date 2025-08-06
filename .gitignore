@@ -1,0 +1,28 @@
+# Ignore sensitive files
+**/.bash_history
+**/.node_repl_history
+**/cache/
+**/logs/
+**/.DS_Store
+**/Thumbs.db
+
+# Ignore large binary directories
+**/go/pkg/mod/
+**/go/bin/
+
+# Keep structure but ignore contents of these
+local/.local/share/nvim/lazy/
+local/.local/share/mise/
+local/.local/share/zoxide/
+
+# Ignore browser profiles and sensitive data
+config/.config/chromium/
+config/.config/google-chrome*/
+config/.config/BraveSoftware/
+config/.config/vivaldi*/
+config/.config/1Password/
+config/.config/Bitwarden/
+config/.config/Signal/
+
+# Keep .gitkeep files to maintain directory structure
+!.gitkeep

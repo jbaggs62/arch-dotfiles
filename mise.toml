@@ -1,0 +1,17 @@
+[settings]
+idiomatic_version_file_enable_tools = ["ruby"]
+
+[settings.ruby]
+ruby_build_opts = "CC=gcc-14 CXX=g++-14"
+
+[tools]
+java = "latest"
+julia = "latest"
+lua = "5.1"
+node = "22"
+packer = "latest"
+php = "latest"
+python = "latest"
+r = "latest"
+ruby = "latest"
+terraform = "latest"
