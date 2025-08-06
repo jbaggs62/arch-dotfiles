@@ -1,0 +1,16 @@
+claude-code
+dropbox-cli
+flameshot-git
+grpcurl-bin
+localsend-bin
+opencode-bin
+python-terminaltexteffects
+ttf-ia-writer
+typora
+tzupdate
+ufw-docker
+walker-bin
+websocat-git
+wl-screenrec
+yay-bin
+yay-bin-debug
